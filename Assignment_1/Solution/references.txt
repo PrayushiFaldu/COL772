@@ -1,0 +1,4 @@
+ascii for punctuations : https://www.kerryr.net/pioneers/ascii3.htm
+ascii for punctuations : https://jkorpela.fi/dashes.html#unicode
+number to word conversion (intuition) : https://www.daniweb.com/programming/software-development/code/216839/number-to-word-converter-python
+regex debugging buddy : https://regex101.com/
