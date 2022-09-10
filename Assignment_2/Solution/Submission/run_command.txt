@@ -1,0 +1,18 @@
+# python3 train.py /home/prayushi/Desktop/IITD/Assignments/NLP/Assignment_2/Data /home/prayushi/Desktop/IITD/Assignments/NLP/Assignment_2/Solution/test_output
+
+# python3 test.py /home/prayushi/Desktop/IITD/Assignments/NLP/Assignment_2/Solution/test_output /home/prayushi/Desktop/IITD/Assignments/NLP/Assignment_2/Data/test/inputfile.txt /home/prayushi/Desktop/IITD/Assignments/NLP/Assignment_2/Solution/test_output/outputfile.txt
+
+# scp -r user@your.server.example.com:/path/to/foo /home/user/Desktop/
+# scp -r /home/prayushi/Desktop/IITD/Assignments/NLP/Assignment_2 csy217548@172.20.8.14 /
+
+# scp -r /home/prayushi/Desktop/IITD/Assignments/NLP/Assignment_2/Solution/Submission/ csy217548@10.113.30.7:/home/cse/msr/csy217548/nlp_assgn_2/copy_hpc/Solution/
+
+# scp -r home/cse/msr/csy217548/nlp_assgn_2/ csy217548@172.20.4.14:/scratch/pbs/pbs.2501406.pbshpc.x8z
+
+
+
+# /scratch/pbs/pbs.2501623.pbshpc.x8z/nlp_assgn_2/copy_hpc/Data /scratch/pbs/pbs.2501623.pbshpc.x8z/nlp_assgn_2/copy_hpc/Solution/test_output
+
+# /scratch/pbs/pbs.2501623.pbshpc.x8z/nlp_assgn_2/copy_hpc/Solution/test_output /scratch/pbs/pbs.2501623.pbshpc.x8z/nlp_assgn_2/copy_hpc/Data/test/inputfile.txt /scratch/pbs/pbs.2501623.pbshpc.x8z/nlp_assgn_2/copy_hpc/Solution/test_output/outputfile.txt
+
+# /scratch/pbs/pbs.2501623.pbshpc.x8z
