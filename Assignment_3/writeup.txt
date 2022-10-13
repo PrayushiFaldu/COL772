@@ -1,0 +1,4 @@
+Model Used: albert-base-v2 (AlbertForSequenceClassification)
+
+External-Data : Created pre training dataset from wordnet using NLTK.
+Steps : Collected all synsets adn grouped them as positive negative acccording to our data needs.
